@@ -1,7 +1,7 @@
 ## Bricker Game
 
 Welcome to the Bricker game! This exciting arcade-style game was implemented as part
-of the Object-Oriented Programming (OOP) course at the Hebrew University, taught by Dan Nirel.
+of the Object-Oriented Programming (OOP) course at the Hebrew University.
 
 ### Overview
 
@@ -37,9 +37,8 @@ To play the Bricker game:
 
 ### Acknowledgments
 
-The Bricker game was implemented during the Object-Oriented Programming (OOP) course at the Hebrew University, 
-taught by Dan Nirel. Special thanks to Professor Nurial for the guidance and support throughout the development process.
-
+The Bricker game was implemented during the Object-Oriented
+Programming (OOP) course at the Hebrew University.
 ### About the Author
 
 Jonathan Zlatin is a passionate software engineer with a love for creating engaging and immersive gaming experiences.
