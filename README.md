@@ -9,7 +9,7 @@ The Bricker game offers a thrilling experience of breaking bricks and avoiding o
 to achieve victory. Control the paddle, bounce the ball, break the bricks, and clear each level to win!
 
 
-<img src="/Users/yhwntnzltyn/IdeaProjects/Bricker/assets/gameheader.png" alt="problem" width="200" height="220">
+<img src="jonathan-zlatin/Bricker/assets/gameheader.png" alt="problem" width="200" height="220">
 
 
 ### How to Play
