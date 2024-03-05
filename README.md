@@ -8,8 +8,6 @@ of the Object-Oriented Programming (OOP) course at the Hebrew University.
 The Bricker game offers a thrilling experience of breaking bricks and avoiding obstacles 
 to achieve victory. Control the paddle, bounce the ball, break the bricks, and clear each level to win!
 
-<img src="=Bricker/assets/gameheader.png" alt="problem" width="200" height="220">
-
 ### How to Play
 
 1. **Control the Paddle**: Use the left and right arrow keys to move the paddle horizontally.
